@@ -42,6 +42,8 @@ Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5)
 ## Screenshots
 
 > <img width="1712" height="984" alt="image" src="https://github.com/user-attachments/assets/99506237-b456-4d43-a36d-a9c99868d90d" />
+> <img width="1919" height="697" alt="image" src="https://github.com/user-attachments/assets/a96837bb-8eb2-4d3d-814a-f9b7156c688b" />
+
 
 
 ---
