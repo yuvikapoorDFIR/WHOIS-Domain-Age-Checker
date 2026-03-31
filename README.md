@@ -162,7 +162,7 @@ The UI uses a custom dark-chrome / light-canvas palette designed for extended fo
 
 ## Author
 
-**Yuvi Kapoor** — Senior DFIR Analyst, CyberClan (APAC)
+**Yuvi Kapoor** 
 
 Specialising in ransomware and BEC incident response engagements.
 
@@ -178,6 +178,6 @@ This tool is intended for use by authorised security professionals conducting le
 
 <div align="center">
 
-Built for the DFIR community · CyberClan APAC
+Built for the DFIR community 
 
 </div>
