@@ -1,0 +1,4 @@
+customtkinter>=5.0.0
+Pillow>=9.0.0
+python-whois>=0.8.0
+tldextract>=3.0.0
