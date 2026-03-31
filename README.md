@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/placeholder.png" alt="WHOIS Domain Age Checker" width="420"/>
+<img src="<img width="1024" height="1024" alt="Designer (2)" src="https://github.com/user-attachments/assets/038f95df-79da-47cd-9f6e-5122ee4511a0" />" alt="WHOIS Domain Age Checker" width="420"/>
 
 # WHOIS Domain Age Checker
 
@@ -20,7 +20,7 @@
 
 WHOIS Domain Age Checker is a desktop forensics tool built for **Digital Forensics & Incident Response (DFIR)** analysts, purpose-built for **Business Email Compromise (BEC)** investigations. It rapidly queries WHOIS registration data across large domain lists, flagging recently registered domains that fall within a configurable lookback window — a key indicator of spoofing infrastructure and phishing campaigns.
 
-Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5) at **CyberClan DFIR**.
+Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5)
 
 ---
 
