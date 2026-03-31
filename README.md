@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="879" height="319" alt="Designer (2)" src="https://github.com/user-attachments/assets/a256e6da-af5d-423f-9a49-0837ea610d82" />" alt="WHOIS Domain Age Checker" width="420"/>
+<img width="879" height="319" alt="Designer (2)" src="https://github.com/user-attachments/assets/a256e6da-af5d-423f-9a49-0837ea610d82" />
 
 # WHOIS Domain Age Checker
 
